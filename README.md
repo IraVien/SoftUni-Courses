@@ -1,2 +1,1 @@
-# SoftUni-Programming-Basics-Exercises
-Programming Basics exercises
+# SoftUni Courses exercises
