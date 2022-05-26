@@ -1,2 +1,2 @@
 # SoftUni Courses exercises
-Added some changes.
+Added programming basics with C# exercises review from SoftUni.
